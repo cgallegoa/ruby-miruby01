@@ -1,0 +1,28 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+
+development:
+  <<: *default
+  database: prueba01_production
+
+  username: carlos
+
+  # The password associated with the postgres role (username).
+  #password:
+
+  host: localhost
+
+  #port: 5432
+
+test:
+  <<: *default
+  database: prueba01_test
+  username: carlos
+
+production:
+  <<: *default
+  database: prueba01_production
+  username: carlos
+  password: <%= ENV['PRUEBA01_DATABASE_PASSWORD'] %>

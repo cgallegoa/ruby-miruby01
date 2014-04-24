@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Ruby200/PRUEBAS01/PRUEBA01/app/views/welcome/index.html.erb",
+		"/C/Ruby200/PRUEBAS01/PRUEBA01/app/controllers/welcome_controller.rb",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/sftp-config.json",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/templates/clientes.html",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/templates/login.html",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/templates/editcliente.html",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/templates/about.html",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/templates/agregaclave.html",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/templates/dos.html",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/templates/register.html",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/templates/singlecliente.html",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/templates/thanks_register.html",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/virtualhost_aw.conf",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/app01/admin.py",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/app01/models.py",
+		"/C/xampp/htdocs/aplicaciones/virtualhost_aw.conf",
+		"/C/xampp/htdocs/aplicaciones/virtualhost.conf",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/app01/views.py",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/clijose/wsgi.py",
+		"/C/xampp/htdocs/aplicaciones/clijose-wink/clijose/urls.py",
+		"/C/xampp/htdocs/aplicaciones/clijose/printing/printing.py-00",
+		"/C/xampp/htdocs/aplicaciones/clijose/trml2pdf/trml2pdf.py",
+		"/C/xampp/htdocs/aplicaciones/clijose/requirements.txt",
+		"/C/xampp/htdocs/aplicaciones/clijose/virtualhost.conf",
+		"/C/xampp/htdocs/aplicaciones/clijose/app01/__init__.py",
+		"/C/xampp/htdocs/aplicaciones/clijose/sftp-config.json",
+		"/C/xampp/htdocs/aplicaciones/index.html",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/rmlprueba01.rml",
+		"/C/xampp/htdocs/aplicaciones/clijose/app01/views_inf01.py-02",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/rmlprueba01.rml-01",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/hello.rml",
+		"/C/xampp/htdocs/aplicaciones/clijose/printing/hello.rml",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/agregaclave.html",
+		"/C/xampp/htdocs/aplicaciones/clijose/printing/platypus-example.py",
+		"/C/xampp/htdocs/aplicaciones/clijose/printing/informecaca.py",
+		"/C/xampp/htdocs/aplicaciones/clijose/static/css/micss.css",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/singlecliente.html",
+		"/C/xampp/htdocs/aplicaciones/clijose/static/js/varios01.js",
+		"/C/xampp/htdocs/aplicaciones/clijose/app01/models.py",
+		"/C/xampp/htdocs/aplicaciones/clijose/clijose/wsgi.py",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/editcliente.html",
+		"/C/xampp/htdocs/aplicaciones/clijose/printing/evaluate.py",
+		"/C/xampp/htdocs/aplicaciones/clijose/printing/printing.py",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/register.html",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/addcliente.html-00",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/login.html",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/addcliente.html",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/clientes.html",
+		"/C/xampp/htdocs/aplicaciones/clijose/app01/admin.py",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/thanks_register.html",
+		"/C/xampp/htdocs/aplicaciones/clijose/static/css/estilo.css",
+		"/C/xampp/htdocs/aplicaciones/clijose/templates/dos.html",
+		"/C/Users/Carlos/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Carlos/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/aplicaciones/clijose/clijose/__init__.py",
+		"/C/xampp/htdocs/aplicaciones/prueba01/appl/static/js/jquery.js",
+		"/C/xampp/htdocs/aplicaciones/prueba01/appl/static/js/demo.js",
+		"/C/xampp/htdocs/aplicaciones/prueba01/appl/static/css/estilo.css",
+		"/C/xampp/htdocs/aplicaciones/recetario/sftp-config.json",
+		"/C/xampp/htdocs/aplicaciones/recetario/context_processors.py",
+		"/C/xampp/htdocs/aplicaciones/recetario/principal/views.py",
+		"/C/xampp/htdocs/aplicaciones/recetario/recetario/templates/recetas.html",
+		"/C/xampp/htdocs/aplicaciones/recetario/recetario/templates/receta.html",
+		"/C/xampp/htdocs/aplicaciones/recetario/principal/forms.py",
+		"/C/xampp/htdocs/aplicaciones/recetario/recetario/templates/privado.html",
+		"/C/xampp/htdocs/aplicaciones/recetario/recetario/templates/ingresar.html",
+		"/C/xampp/htdocs/aplicaciones/recetario/recetario/templates/recetaform.html",
+		"/C/xampp/htdocs/aplicaciones/recetario/recetario/static/css/base.css",
+		"/C/xampp/htdocs/aplicaciones/recetario/recetario/django.wsgi",
+		"/C/TRANSI46/cocina/proyectos01/recetario-2/recetario/templates/base.html",
+		"/C/TRANSI46/cocina/proyectos01/recetario-2/recetario/wsgi.py",
+		"/C/xampp/htdocs/aplicaciones/recetario/manage.py",
+		"/C/TRANSI46/cocina/proyectos01/recetario-2/Recetario.sublime-project",
+		"/C/Users/Carlos/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Carlos/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Carlos/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Carlos/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PRUEBA01_DATABASE_PASSWORD",
+			"form",
+			"rake",
+			"matc",
+			"root",
+			"href",
+			"settings",
+			"wink.png",
+			"settings",
+			"areawink",
+			"rml2pdf",
+			"wink.png",
+			"settings",
+			"aplicaciones/clijose/static",
+			"WINK",
+			"clijose",
+			"wsgi_module",
+			"login",
+			".png",
+			"images",
+			"PNG",
+			"clijose",
+			"cgalecu",
+			"clijose",
+			"mod_wsgi.so",
+			"AllowOverride",
+			"proyecto01",
+			"periodico",
+			"user",
+			"repeatRows",
+			"table",
+			"mask",
+			"image",
+			"mm",
+			"drawImage",
+			"image",
+			"trml2pdf",
+			"rml2pdf",
+			"png",
+			"leading",
+			"requestcontext",
+			"loader",
+			"canvas",
+			"letter",
+			"setfont",
+			"MyPrint",
+			"print_users_dos",
+			"MyPrint",
+			"print_users",
+			"printing",
+			"nRow",
+			"nrow",
+			"right",
+			"6",
+			"simpledoc",
+			"tabl",
+			"status_code",
+			"getSampleStyleSheet",
+			"ParagraphStyle",
+			"getSampleStyleSheet",
+			"Image",
+			"enums",
+			"cm",
+			"print_user",
+			"myprint",
+			"canvas",
+			"save",
+			"pil",
+			"imaging",
+			"image",
+			"paragraph",
+			"TOPPADDING",
+			"center",
+			"grid",
+			"CENTER",
+			"canvas",
+			".empresa",
+			"printin",
+			"p",
+			"p.id",
+			"json",
+			"prod",
+			"resp",
+			"data",
+			"cliente_id",
+			"response",
+			"hubo un error al eli",
+			"bootstrap",
+			"form",
+			"option",
+			"data",
+			"generic",
+			"producto",
+			"prod",
+			"addcliente",
+			"prod",
+			" RegisterForm",
+			"addClienteForm",
+			"la_id",
+			"register_view",
+			"{% url",
+			"addClaveForm",
+			"categoria",
+			"span",
+			"color",
+			"user",
+			"processor",
+			"user",
+			"logout",
+			"table",
+			"html",
+			"table",
+			"p03",
+			"producto",
+			"h4",
+			"winkj",
+			"soluc",
+			"prod",
+			"tabl",
+			"border",
+			"sidebar",
+			"clientess",
+			"clientes",
+			"micss",
+			"jumbotron",
+			"ajax",
+			"clijose",
+			"estilo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wink01",
+			"user2019",
+			"cliente"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 705.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/TRANSI46/cocina/proyectos01/recetario-2/Recetario.sublime-project"
+			]
+		],
+		"width": 1366.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
